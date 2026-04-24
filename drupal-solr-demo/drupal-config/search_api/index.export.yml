@@ -1,2 +1,10 @@
 # Search API Index Configuration
 # Search index export configuration
+id: content_index
+name: Content Index
+datasource: entity:node
+field_settings:
+  title:
+    label: Title
+  body:
+    label: Body
