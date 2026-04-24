@@ -1,4 +1,8 @@
 # Drupal Modules Required
-drupal/core
-drupal/search_api
-drupal/search_api_solr
+search_api
+search_api_solr
+views
+node
+field
+text
+system
