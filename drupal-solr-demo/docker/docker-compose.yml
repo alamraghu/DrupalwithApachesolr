@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  solr:
+    image: solr:latest
+    ports:
+      - "8983:8983"
+    environment:
+      - SOLR_HOME=/var/solr
+    volumes:
+      - ./solr/configsets:/var/solr/data/configsets

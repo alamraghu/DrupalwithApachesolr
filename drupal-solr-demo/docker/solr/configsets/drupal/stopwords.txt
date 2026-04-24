@@ -1,0 +1,10 @@
+# Stopwords for Solr
+# Common words to ignore in search
+the
+and
+or
+is
+to
+of
+a
+in

@@ -1,0 +1,10 @@
+{
+  "name": "drupal/drupal-solr-demo",
+  "description": "Drupal with Apache Solr integration demo",
+  "type": "project",
+  "require": {
+    "drupal/core": "^10.0",
+    "drupal/search_api": "^1.30",
+    "drupal/search_api_solr": "^4.3"
+  }
+}
