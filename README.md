@@ -22,9 +22,9 @@ This project demonstrates how to integrate Apache Solr with Drupal 10 using Sear
 
 ###Screenshots
 ###Screenshots
-<img width="730" height="396" alt="Screenshot 2026-04-23 at 9 09 17 PM" src="https://github.com/user-attachments/assets/7d6a49c3-1458-49c4-98fd-0929a30beaa0" />
+<img width="1492" height="1226" alt="image" src="https://github.com/user-attachments/assets/dedaf28d-f211-4841-92af-d4f645392981" />
 
-<img width="723" height="511" alt="Screenshot 2026-04-23 at 9 09 48 PM" src="https://github.com/user-attachments/assets/00e179bc-36b5-4fa3-84fd-873380089f5d" />
+
 
 <img width="722" height="503" alt="Screenshot 2026-04-23 at 9 28 43 PM" src="https://github.com/user-attachments/assets/9e0ef27d-ccec-44f4-a71c-ed08df4fd447" />
 
